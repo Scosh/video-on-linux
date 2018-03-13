@@ -1,0 +1,6 @@
+- vlc
+- blender
+- kodi
+- obs
+- openshot
+- shotcut
