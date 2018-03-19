@@ -4,3 +4,6 @@
 - obs
 - openshot
 - shotcut
+- [kdenlive](https://kdenlive.org/)
+- [ptivi](http://www.pitivi.org/)
+- [handbrake](https://handbrake.fr/)
