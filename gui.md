@@ -7,3 +7,5 @@
 - [kdenlive](https://kdenlive.org/)
 - [ptivi](http://www.pitivi.org/)
 - [handbrake](https://handbrake.fr/)
+- [pencil2d](https://www.pencil2d.org/)
+- [synfig](https://www.synfig.org/)
